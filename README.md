@@ -6,7 +6,7 @@
 - ¿A qué te dedicas?
    Me especializo en Wordpress y desarrollo de frontend con Vue JS.
 - ¿Cuál es tu formación?
-  Certificaciones Senses y autodidacta
+  Certificaciones Sense y autodidacta
 - ¿Cuáles son tus experiencias previas? y en caso que no tengas ¿por qué
 deberían contactarte?
    He trabajado en el desarrollo web de pymes y organizaciones, también he colaborado en proyectos de agencias de Marketing.
